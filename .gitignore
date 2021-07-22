@@ -1,4 +1,5 @@
 /exec
+*main.c
 # Prerequisites
 *.d
 
